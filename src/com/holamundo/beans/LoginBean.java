@@ -5,8 +5,9 @@ import java.io.Serializable;
 public class LoginBean implements Serializable{
 	
 	/**
-	 * 
+	 * Autor Stick Cruz 
 	 */
+	
 	private static final long serialVersionUID = 1L;
 	private String nombre;
 	private String contrasena;
